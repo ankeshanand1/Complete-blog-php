@@ -8,5 +8,6 @@
 	}
     // define global constants
 	define ('ROOT_PATH', realpath(dirname(__FILE__)));
-	define('BASE_URL', "https://$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']");
+	$url=$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+	define("BASE_URL", "https://$url");
 ?>
