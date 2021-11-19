@@ -27,7 +27,9 @@ This Application is for blogging where users can blog and other can like, share 
 6. Security(2021)
 
 Originally forked from rkishan516/Complete-blog-php
+
 Author: ankeshanand1
+
 For contributions: Create Pull request and report issues and Bugs
 
 ## Wanna Help? Fork this Repo and begin!
